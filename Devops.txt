@@ -1,1 +1,0 @@
-Devops is a methodolgy which involves pratices to bridge a gap between development and operation teams using open source automation build tools.
